@@ -1,0 +1,6 @@
+{
+  "name": "Retirement & Inflation Planner",
+  "description": "基于中国大陆近十年通胀率均值及4%法则的高精度退休金测算与规划工具",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
